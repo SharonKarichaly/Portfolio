@@ -3,7 +3,8 @@ It will showcase my professional achievements, certifications, and recognitions.
 
 ## Current Highlights
 - **AWS Certified Solutions Architect – Associate**  
-- **Standing Ovation Award** – Company Recognition  
+- **Standing Ovation Award** – Company Recognition
+- **Red Hat Certified System Administrator(RHCSA)** on RHEL 7.0 Certification ID : 170-145-932. (Expired)
 
 ---
 
